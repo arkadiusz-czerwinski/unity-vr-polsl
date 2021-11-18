@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Samples/OpenXR Plugin/1.2.8/Controller/ControllerSample.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
